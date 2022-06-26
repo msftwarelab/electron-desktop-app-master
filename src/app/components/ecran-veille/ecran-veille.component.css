@@ -1,0 +1,17 @@
+#tuk-btn{
+  height: 60px;
+  font-size: 1.4em;
+  font-weight: 400;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#metro-btn{
+  height: 60px;
+  font-size: 1.4em;
+  font-weight: 400;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.icon-veille{
+  width: 300px !important;
+}

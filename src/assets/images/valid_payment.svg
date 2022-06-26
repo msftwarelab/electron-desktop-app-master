@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="401px" viewBox="0 0 400 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>if_tick_646195</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="if_tick_646195" fill-rule="nonzero">
+            <path d="M200,0.801606426 C89.5317269,0.801606426 0,90.3333333 0,200.801606 C0,311.270683 89.5317269,400.801606 200,400.801606 C310.468273,400.801606 400,311.26988 400,200.801606 C400,90.3325301 310.468273,0.801606426 200,0.801606426 Z M200,384.801606 C98.546988,384.801606 16,302.254618 16,200.800803 C16,99.346988 98.546988,16.8008032 200,16.8008032 C301.453815,16.8008032 384,99.3477912 384,200.800803 C384,302.254618 301.453815,384.801606 200,384.801606 Z" id="Shape" fill="#2979FF"></path>
+            <polygon id="Shape" fill="#3F51B5" points="303 122.24257 168.609639 256.640964 97.0779116 185.125301 85.7188755 196.485141 168.609639 279.359839 314.281124 133.601606"></polygon>
+        </g>
+    </g>
+</svg>
